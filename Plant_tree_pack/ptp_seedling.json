@@ -186,7 +186,7 @@
   },
   {
     "type"        : "GENERIC",
-    "id"          : "ptp_seedling_cashew",
+    "id"          : "ptp_seedling_pepper",
     "copy-from"   : "ptp_seedling",
     "name"        : "苗木(コショウ)",
     "description" : "コショウの苗木です。建設から植えるとコショウの木になります。"
