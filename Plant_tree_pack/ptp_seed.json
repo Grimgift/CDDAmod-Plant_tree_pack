@@ -63,7 +63,7 @@
                       "seeds"      : false,
                       "fruit"      : "withered",
                       "fruit_div"  : 10,
-                      "byproducts" : [ "ptp_seedling_beech_" ],
+                      "byproducts" : [ "ptp_seedling_beech" ],
                       "grow"       : 60
                     }
   },
