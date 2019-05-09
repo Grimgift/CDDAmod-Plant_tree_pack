@@ -198,9 +198,9 @@
     "name"        : "苗木(カシューナッツ)",
     "description" : "カシューナッツの苗木です。建設から植えるとカシューナッツの木になります。"
   },
-    {
+  {
     "type"        : "GENERIC",
-    "id"          : "ptp_seedling_Cinnammon",
+    "id"          : "ptp_seedling_cinnammon",
     "copy-from"   : "ptp_seedling",
     "name"        : "苗木(シナモン)",
     "description" : "シナモンの苗木です。建設から植えるとシナモンの木になります。"
