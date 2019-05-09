@@ -250,7 +250,7 @@
     "id"          : "ptp_seed_elderberry",
     "copy-from"   : "ptp_tree_seed",
     "name"        : "種(エルダーベリーの木)",
-    "description" : "植林用のマルベリーの種です。成長したらマルベリーの苗木になります。",
+    "description" : "植林用のマルベリーの種です。成長したらエルダーベリーの苗木になります。",
     "seed_data"   : {
                       "plant_name" : "エルダーベリーの苗",
                       "seeds"      : false,
