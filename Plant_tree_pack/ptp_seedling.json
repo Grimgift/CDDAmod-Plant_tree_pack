@@ -1,0 +1,264 @@
+[
+  {
+    "abstract"         : "ptp_seedling",
+    "type"             : "GENERIC",
+    "name"             : "植林パックMOD苗木テンプレート",
+    "name_plural"      : "植林パックMOD苗木テンプレート",
+    "looks_like"       : "seed_wheat",
+    "material"         : "veggy",
+    "symbol"           : "T",
+    "color"            : "green",
+    "price"            : 100,
+    "stack_size"       : 5,
+    "weight"           : 1000,
+    "volume"           : 5,
+    "charges"          : 1,
+    "bashing"          : 1,
+    "to_hit"           : -2
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_walnut",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(クルミ)",
+    "description" : "クルミの苗木です。建設から植えるとクルミの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_chestnut",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(クリ)",
+    "description" : "クリの苗木です。建設から植えるとクリの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_beech",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ブナ)",
+    "description" : "ブナの苗木です。建設から植えるとブナの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_hazelnut",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ハシバミ)",
+    "description" : "ハシバミの苗木です。建設から植えるとハシバミの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_oak",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(オーク)",
+    "description" : "オークの苗木です。建設から植えるとオークの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_cottonwood",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ポプラ)",
+    "description" : "ポプラの苗木です。建設から植えるとポプラの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_elm",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ニレ)",
+    "description" : "ニレの苗木です。建設から植えるとニレの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_apple",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(リンゴ)",
+    "description" : "リンゴの苗木です。建設から植えるとリンゴの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_pear",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(洋ナシ)",
+    "description" : "洋ナシの苗木です。建設から植えると洋ナシの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_coffee",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(コーヒー)",
+    "description" : "コーヒーの苗木です。建設から植えるとコーヒーの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_cherry",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(サクランボ)",
+    "description" : "サクランボの苗木です。建設から植えるとサクランボの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_peach",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(モモ)",
+    "description" : "モモの苗木です。建設から植えるとモモの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_apricot",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(アンズ)",
+    "description" : "アンズの苗木です。建設から植えるとアンズの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_plum",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(スモモ)",
+    "description" : "スモモの苗木です。建設から植えるとスモモの木になります。"
+  },
+    {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_mulberry",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(マルベリー)",
+    "description" : "マルベリーの苗木です。建設から植えるとマルベリーの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_elderberry",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(エルダーベリー)",
+    "description" : "エルダーベリーの苗木です。建設から植えるとエルダーベリーの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_pine",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(マツ)",
+    "description" : "マツの苗木です。建設から植えるとマツの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_birch",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(シラカバ)",
+    "description" : "シラカバの苗木です。建設から植えるとシラカバの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_willow",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ヤナギ)",
+    "description" : "ヤナギの苗木です。建設から植えるとヤナギの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_maple",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(カエデ)",
+    "description" : "カエデの苗木です。建設から植えるとカエデの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_hickory",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ヒッコリー)",
+    "description" : "ヒッコリーの苗木です。建設から植えるとヒッコリーの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_pistachio",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ピスタチオ)",
+    "description" : "ピスタチオの苗木です。建設から植えるとピスタチオの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_almond",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(アーモンド)",
+    "description" : "アーモンドの苗木です。建設から植えるとアーモンドの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_pecan",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ペカン)",
+    "description" : "ペカンの苗木です。建設から植えるとペカンの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_cashew",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(コショウ)",
+    "description" : "コショウの苗木です。建設から植えるとコショウの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_cashew",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(カシューナッツ)",
+    "description" : "カシューナッツの苗木です。建設から植えるとカシューナッツの木になります。"
+  },
+    {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_Cinnammon",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(シナモン)",
+    "description" : "シナモンの苗木です。建設から植えるとシナモンの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_lemon",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(レモン)",
+    "description" : "レモンの苗木です。建設から植えるとレモンの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_banana",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(バナナ)",
+    "description" : "バナナの苗木です。建設から植えるとバナナの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_mango",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(マンゴー)",
+    "description" : "マンゴーの苗木です。建設から植えるとマンゴーの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_grapefruit",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(グレープフルーツ)",
+    "description" : "グレープフルーツの苗木です。建設から植えるとグレープフルーツの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_papaya",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(パパイヤ)",
+    "description" : "パパイヤの苗木です。建設から植えるとパパイヤの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_orange",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(オレンジ)",
+    "description" : "オレンジの苗木です。建設から植えるとオレンジの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_pomegranate",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ザクロ)",
+    "description" : "ザクロの苗木です。建設から植えるとザクロの木になります。"
+  },
+  {
+    "type"        : "GENERIC",
+    "id"          : "ptp_seedling_coconut",
+    "copy-from"   : "ptp_seedling",
+    "name"        : "苗木(ココヤシ)",
+    "description" : "ココヤシの苗木です。建設から植えるとココヤシの木になります。"
+  }
+]
