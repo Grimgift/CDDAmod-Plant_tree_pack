@@ -1,0 +1,11 @@
+{
+  "type"         : "MOD_INFO",
+  "mod_type"     : "SUPPLEMENTAL",
+  "ident"        : "plant_tree_pack",
+  "name"         : "追加 - 植林パック",
+  "description"  : "植林用の種と苗木を追加、苗木を使って色々な木を建設で配置できるようにするMODです。",
+  "authors"      : [ "Grimgift" ],
+  "category"     : "buildings",
+  "dependencies" : ["dda"],
+  "path"         : ""
+}
